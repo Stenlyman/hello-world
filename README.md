@@ -1,5 +1,3 @@
 # hello-world
-learning how to use GITHub
-
-But is is not easy to deal with all new things, apps, Abbs...
-lkmklmlk
+Hello, I am Stanislav and I from Slovakia
+Github is fun a easy
